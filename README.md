@@ -11,12 +11,15 @@ Needed to create a program that:
 
 # Program Structure
 The program is structured using classes and methods.
-Classes:
-- Main: runs the program and fetches the methods from the order class.
-- Order: handles the order details and calculations.
+- Classes:
+  Main - runs the program and fetches the methods from the order class.
+  Order - handles the order details and calculations.
+- Methods:
+  calculateTotal() - Calculates total price of the order.
+  printReceipt() - Displays the final receipt of the user.
 
 # How I Approached the Problem
-I first looked at the scenario and client requirements to see what the program needed to do. Then I made the classes and methods that were required for the program. Lastly, I checked for errors in my code by running the program and fixing any errors that popped up in Netbeans.
+I first looked at the scenario and client requirements to see what the program needed to do. Then I made the classes and methods that were required for the program. Lastly, I checked for errors in my code by running the program and fixing any errors that popped up in NetBeans.
 
 #OOP Concepts Used
 - Class vs Object:
@@ -29,5 +32,6 @@ I first looked at the scenario and client requirements to see what the program n
   Used to perform actions like calculating the totals and printing the receipt.
 
 #Screenshots
+
 <img width="264" height="314" alt="image" src="https://github.com/user-attachments/assets/1c4acbce-0052-46b4-bec2-3c0feec7ae3b" />
 

@@ -33,5 +33,6 @@ I first looked at the scenario and client requirements to see what the program n
 
 # Screenshots
 
-<img width="264" height="314" alt="image" src="https://github.com/user-attachments/assets/1c4acbce-0052-46b4-bec2-3c0feec7ae3b" />
+<img width="264" height="314" alt="image" src="https://github.com/user-attachments/assets/aa2fa552-c879-4ef2-a81a-c45077142c0b" />
+
 

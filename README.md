@@ -21,7 +21,7 @@ The program is structured using classes and methods.
 # How I Approached the Problem
 I first looked at the scenario and client requirements to see what the program needed to do. Then I made the classes and methods that were required for the program. Lastly, I checked for errors in my code by running the program and fixing any errors that popped up in NetBeans.
 
-#OOP Concepts Used
+# OOP Concepts Used
 - Class vs Object:
   Used classes to structure the program and created objects from the classes to show specific orders.
 - Encapsulation:
@@ -31,7 +31,7 @@ I first looked at the scenario and client requirements to see what the program n
 - Methods
   Used to perform actions like calculating the totals and printing the receipt.
 
-#Screenshots
+# Screenshots
 
 <img width="264" height="314" alt="image" src="https://github.com/user-attachments/assets/1c4acbce-0052-46b4-bec2-3c0feec7ae3b" />
 

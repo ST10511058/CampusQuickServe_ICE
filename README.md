@@ -12,17 +12,17 @@ Needed to create a program that:
 # Program Structure
 The program is structured using classes and methods.
 - Classes:
-  Main - runs the program and fetches the methods from the order class.
-  Order - handles the order details and calculations.
+  - Main - runs the program and fetches the methods from the order class.
+  - Order - handles the order details and calculations.
 - Methods:
-  calculateTotal() - Calculates total price of the order.
-  printReceipt() - Displays the final receipt of the user.
+  - calculateTotal() - Calculates total price of the order.
+  - printReceipt() - Displays the final receipt of the user.
 
 # How I Approached the Problem
 I first looked at the scenario and client requirements to see what the program needed to do. Then I made the classes and methods that were required for the program. Lastly, I checked for errors in my code by running the program and fixing any errors that popped up in NetBeans.
 
 # OOP Concepts Used
-- Class vs Object:
+- Class vs Object: \n
   Used classes to structure the program and created objects from the classes to show specific orders.
 - Encapsulation:
   Data like names of items and the prices were kept inside classes and accessed through methods.

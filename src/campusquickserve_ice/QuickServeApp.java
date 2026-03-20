@@ -35,11 +35,11 @@ public class QuickServeApp {
             
                               + "Item ordered: " + item + "\n"
                               + "Quantity: " + quantity + "\n"
-                              + "Price per item: " + price + "\n"
-                              + "Subtotal: " + total + "\n"
+                              + "Price per item: R" + price + "\n"
+                              + "Subtotal: R" + total + "\n"
                               + "Discount Applied: R" + discount + "\n"
-                              + "VAT(15%): " + vat + "\n"
-                              + "Total: " + finalPrice + "\n"
+                              + "VAT(15%): R" + vat + "\n"
+                              + "Total: R" + finalPrice + "\n"
                               + "Thank you for your order!" + "\n"
                               + "----------------------------------";
     
